@@ -1,0 +1,52 @@
+Game Output Example:
+
+Please enter a number
+12
+Nice try!The number is greater than 12
+Please enter a number
+14
+Nice try!The number is greater than 14
+Please enter a number
+433
+Nice try!The number is greater than 433
+Please enter a number
+500
+Nice try!The number is greater than 500
+Please enter a number
+600
+Nice try!The number is greater than 600
+Please enter a number
+700
+Nice try!The number is greater than 700
+Please enter a number
+800
+Nice try!The number is greater than 800
+Please enter a number
+900
+Nice try! The number is less than 900
+Please enter a number
+899
+Nice try! The number is less than 899
+Please enter a number
+888
+Nice try! The number is less than 888
+Please enter a number
+870
+Nice try! The number is less than 870
+Please enter a number
+850
+Nice try! The number is less than 850
+Please enter a number
+840
+Nice try! The number is less than 840
+Please enter a number
+820
+Nice try!The number is greater than 820
+Please enter a number
+830
+Nice try!The number is greater than 830
+Please enter a number
+832
+Congratulations! You win!
+
+=== Code Execution Successful ===
